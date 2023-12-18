@@ -27,8 +27,16 @@
 - Purchased Bike: indicating bike purchase status.
 
 - ![Data Cleaning](https://github.com/fatm2/Bike-Buyers-Project-in-Excel/assets/109034314/2f218b34-7590-482d-8e0d-c0fb48d6b8a4)
-- [Data Cleaning Used](https://github.com/fatm2/Bike-Buyers-Project-in-Excel/blob/main/Bike%20Bayers%20Data%20Cleaning.xlsx)
+- [Data Cleaning](https://github.com/fatm2/Bike-Buyers-Project-in-Excel/blob/main/Bike%20Bayers%20Data%20Cleaning.xlsx)
 
+
+  ## PivotTables:
+  Utilizes aggregation and PivotTables to analyze data across multiple dimensions (e.g., age group, location, income), uncovering insights in bike buyer attributes.
+
+- Correlation Analysis:
+  Implements statistical techniques to quantify relationships between dimensions, such as product preferences and demographics, and purchase history with lifecycle stage.
+![Pivot Table ](https://github.com/fatm2/Bike-Buyers-Project-in-Excel/assets/109034314/634509cd-eca5-4569-9969-d0421c9fd859)
+- [Data Pivot Table](https://github.com/fatm2/Bike-Buyers-Project-in-Excel/blob/main/Bike%20Buyers%20Pivot%20Table.xlsx)
 
 
 
