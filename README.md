@@ -5,7 +5,7 @@
 >
 
 ## Dataset Used
-- [Dataset Used]()
+- [Dataset Used](https://github.com/fatm2/Bike-Buyers-Project-in-Excel/blob/main/Dataset.xlsx)
 
 
 ## Data Cleaning Overview:
@@ -26,7 +26,7 @@
 - Age: Customer's age in years.
 - Purchased Bike: indicating bike purchase status.
 
-- ![image](![Data Cleaning](https://github.com/fatm2/Bike-Buyers-Project-in-Excel/assets/109034314/2f218b34-7590-482d-8e0d-c0fb48d6b8a4)
+- (![Data Cleaning](https://github.com/fatm2/Bike-Buyers-Project-in-Excel/assets/109034314/2f218b34-7590-482d-8e0d-c0fb48d6b8a4)
 - [Data Cleaning Used]()
 
 
