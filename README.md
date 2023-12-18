@@ -27,7 +27,7 @@
 - Purchased Bike: indicating bike purchase status.
 
 - ![Data Cleaning](https://github.com/fatm2/Bike-Buyers-Project-in-Excel/assets/109034314/2f218b34-7590-482d-8e0d-c0fb48d6b8a4)
-- [Data Cleaning Used]()
+- [Data Cleaning Used](https://github.com/fatm2/Bike-Buyers-Project-in-Excel/blob/main/Bike%20Bayers%20Data%20Cleaning.xlsx)
 
 
 
